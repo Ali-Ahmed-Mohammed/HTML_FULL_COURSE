@@ -19,7 +19,7 @@ HTML standards form HyperText Markup Language
     <meta charset="utf-8">
     <meta name="author"  content="Ali">
     <title>apperas browser tab</title>
-    <link rel="stylesheet" href=""style.css>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <p>visible contents of the page.</p>
